@@ -1,19 +1,29 @@
-# React + Vite
+🛒 E-Commerce App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A simple React e-commerce application with product listing and shopping cart functionality.
 
-Currently, two official plugins are available:
+✨ Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+Product listing
 
-## React Compiler
+Add to cart
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+Remove from cart
 
-## Expanding the ESLint configuration
+Cart item count
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+Total price calculation
+
+Clean and responsive UI
+
+
+🛠️ Tech Used
+
+React.js
+
+JavaScript
+
+CSS
 
 
 ![image Alt](https://github.com/thanujatha1432-coi/E-Commerce/blob/ddf3152de0e6f3f913b28902e93291b57660b824/ecommerence1.jpg)
