@@ -18,3 +18,4 @@ If you are developing a production application, we recommend using TypeScript wi
 
 ![image Alt](https://github.com/thanujatha1432-coi/E-Commerce/blob/ddf3152de0e6f3f913b28902e93291b57660b824/ecommerence1.jpg)
 
+![image Alt](https://github.com/thanujatha1432-coi/E-Commerce/blob/74c3e577c820d0f6c4e669bef9d75144ed88418f/e-commerence2.jpg)
